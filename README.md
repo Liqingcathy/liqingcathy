@@ -1,8 +1,6 @@
 ### Hi👋
 
 - 🌲 I'm based in Seattle area, WA
-- 🔭 I’m currently working on advancing my skills in test-driven development to deliver quality code
-- 🌱 I’m currently looking for full-time developer roles
 - 📫 How to reach me: cathy.glc@gmail.com
 - 😄 Pronouns: she/her
 
